@@ -7,4 +7,6 @@ A good starting point for a new Rust project
 
 ```
 pip install git+https://github.com/MarshHawk/hugging-skull@main
+
+pip install git+https://github.com/MarshHawk/flitton-fib-py@main
 ```
